@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- NavigateBar -->
+    <declare-styleable name="NavigateBar">
+        <attr name="tabCount" format="integer" />
+        <attr name="defaultImageArray" format="reference" />
+        <attr name="focusImageArray" format="reference" />
+        <attr name="textArray" format="reference" />
+        <attr name="defaultTextColor" format="color" />
+        <attr name="focusTextColor" format="color" />
+        <attr name="textSize" format="dimension" />
+    </declare-styleable>
+</resources>
