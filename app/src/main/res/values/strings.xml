@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">BlogSamples</string>
+
+    <!-- 搜索转场动画 -->
+    <string name="trans_anim_search_tv">search_tv_anim</string>
+    <string name="trans_anim_search_layout">search_layout_anim</string>
+    <string name="trans_anim_search_iv">search_iv_anim</string>
+    <string name="trans_anim_search_edit">search_edit_anim</string>
 </resources>

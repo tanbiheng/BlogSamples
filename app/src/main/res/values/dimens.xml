@@ -136,4 +136,8 @@
     <dimen name="dimen_size_98">98dp</dimen>
     <dimen name="dimen_size_99">99dp</dimen>
     <dimen name="dimen_size_100">100dp</dimen>
+
+    <!--搜索-->
+    <dimen name="search_target_height">250dp</dimen>
+    <dimen name="search_init_width">75dp</dimen>
 </resources>
